@@ -9,7 +9,7 @@ Tezos | Flutter | Dart
 ## Steps to run the project
 ```bash
 git clone https://github.com/moharora8/Tezos-Wallet.git
-cd devfest_tezos
+cd Tezos-Wallet
 flutter pub get
 flutter run
 ```
