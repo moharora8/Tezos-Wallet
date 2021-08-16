@@ -1,0 +1,63 @@
+name: devfest_tezos
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  tezster_dart: ^2.1.1
+  rxdart: ^0.25.0
+  http: ^0.12.2
+  shared_preferences: ^0.5.6+3
+  qr_flutter: ^3.2.0
+  libsodium: ^0.1.11
+  url_launcher: ^5.4.5
+  file_picker: ^2.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/wally_logo.png"
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+
+  fonts:
+
+    - family: NothingYouCouldDo
+      fonts:
+        - asset:  assets/font/NothingYouCouldDo-Regular.ttf
+          weight: 400
+    - family: Acme
+      fonts:
+        - asset:  assets/font/Acme-Regular.ttf
+          weight: 600
+    - family: Josefin Sans
+      fonts:
+        - asset: assets/font/JosefinSans-Regular.ttf 
+          weight: 200
+    - family: OpenSans
+      fonts:
+        - asset: assets/font/OpenSans-Regular.ttf
+        - asset: assets/font/OpenSans-SemiBold.ttf
+          weight: 400
+    - family: Lato
+      fonts:
+        - asset: assets/font/Lato-Regular.ttf 
+        - asset: assets/font/Lato-Bold.ttf
+          weight: 200
