@@ -2,6 +2,8 @@
 
 Users can create accounts via (Seed Phrase & Pass Phrase) and can import accounts via (Private Key & Forged Operations, Seed Phrase & Pass Phrase, Faucet File, and Fundraiser). Multiple accounts can be managed on a single platform which reduces management overhead. Support for delegates, contracts, and users. Available networks are MainNet, EdoNet, and FlorenceNet which can be switched back and forth according to the need. Users can see all the activities performed by them viz send and receive operations. The phone's local storage is being used for storing all the data using the shared_preferences library.
 
+Download apk from: https://drive.google.com/drive/folders/1Brjkm1dVbHCPhvCWjhqrv4T8Yk8TgVPG 
+
 ## Technical Stack 
 
 Tezos | Flutter | Dart 
