@@ -16,6 +16,12 @@ flutter run
 
 ## Screenshots
 
+<p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/45122810/129529507-1c7dcf0f-b37b-46f4-ba67-de917bf9486b.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://user-images.githubusercontent.com/45122810/129529527-fa1b0175-06d2-4d50-9e39-098c00331b75.jpg" width="45%">
+</p>
+
 Create account             |  Import account
 :-------------------------:|:-------------------------:
 ![CreatePage1](https://user-images.githubusercontent.com/45122810/129529507-1c7dcf0f-b37b-46f4-ba67-de917bf9486b.jpg)
