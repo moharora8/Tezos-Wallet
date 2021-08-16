@@ -21,7 +21,8 @@ Create account             |  Import account
 ![CreatePage1](https://user-images.githubusercontent.com/45122810/129529507-1c7dcf0f-b37b-46f4-ba67-de917bf9486b.jpg)
 ![CreatePage2](https://user-images.githubusercontent.com/45122810/129529510-b35f916c-d8a0-40b5-a5b1-29a803d3c2dd.jpg)
 ![CreatePage3](https://user-images.githubusercontent.com/45122810/129529514-e8060b1f-cfc0-4ee8-854d-e41eceb3427a.jpg)
-![CreatePage4](https://user-images.githubusercontent.com/45122810/129529518-ac739d28-94b3-4b5c-b6bd-849b08794936.jpg) |  ![Import1](https://user-images.githubusercontent.com/45122810/129529527-fa1b0175-06d2-4d50-9e39-098c00331b75.jpg)
+![CreatePage4](https://user-images.githubusercontent.com/45122810/129529518-ac739d28-94b3-4b5c-b6bd-849b08794936.jpg) |  
+![Import1](https://user-images.githubusercontent.com/45122810/129529527-fa1b0175-06d2-4d50-9e39-098c00331b75.jpg)
 ![Import2](https://user-images.githubusercontent.com/45122810/129529529-372c474c-0ca4-4cbd-8f61-e82ad300ff58.jpg)
 ![Import3](https://user-images.githubusercontent.com/45122810/129529534-1c41dc17-a8ff-47ae-b8d6-df527579a0ac.jpg)
 ![Import4](https://user-images.githubusercontent.com/45122810/129529537-31d99ac9-07a2-4309-ab74-e0962d7f333f.jpg)
