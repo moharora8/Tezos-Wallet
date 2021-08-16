@@ -7,14 +7,16 @@ Users can create accounts via (Seed Phrase & Pass Phrase) and can import account
 Tezos | Flutter | Dart 
 
 ## Steps to run the project
-
+```bash
 git clone https://github.com/moharora8/Tezos-Wallet.git
 cd devfest_tezos
 flutter pub get
 flutter run
+```
 
-## Screenshots![accounts](https://user-images.githubusercontent.com/45122810/129529501-95572f50-8530-47ef-8384-b65eea9f61d5.jpg)
-![CreatePage1](https://user-images.githubusercontent.com/45122810/129529507-1c7dcf0f-b37b-46f4-ba67-de917bf9486b.jpg)
+## Screenshots
+![accounts](https://user-images.githubusercontent.com/45122810/129529501-95572f50-8530-47ef-8384-b65eea9f61d5.jpg)![CreatePage1](https://user-images.githubusercontent.com/45122810/129529507-1c7dcf0f-b37b-46f4-ba67-de917bf9486b.jpg)
+
 ![CreatePage2](https://user-images.githubusercontent.com/45122810/129529510-b35f916c-d8a0-40b5-a5b1-29a803d3c2dd.jpg)
 ![CreatePage3](https://user-images.githubusercontent.com/45122810/129529514-e8060b1f-cfc0-4ee8-854d-e41eceb3427a.jpg)
 ![CreatePage4](https://user-images.githubusercontent.com/45122810/129529518-ac739d28-94b3-4b5c-b6bd-849b08794936.jpg)
