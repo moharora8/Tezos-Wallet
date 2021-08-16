@@ -29,7 +29,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/wally_logo.png"
+  image_path: "assets/logo.jpg"
 
 flutter:
 
@@ -39,18 +39,7 @@ flutter:
 
   fonts:
 
-    - family: NothingYouCouldDo
-      fonts:
-        - asset:  assets/font/NothingYouCouldDo-Regular.ttf
-          weight: 400
-    - family: Acme
-      fonts:
-        - asset:  assets/font/Acme-Regular.ttf
-          weight: 600
-    - family: Josefin Sans
-      fonts:
-        - asset: assets/font/JosefinSans-Regular.ttf 
-          weight: 200
+    
     - family: OpenSans
       fonts:
         - asset: assets/font/OpenSans-Regular.ttf
